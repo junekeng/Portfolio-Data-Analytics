@@ -5,10 +5,11 @@ The project has the following two objectives.
   	   a.	Period 1 – before 1920
   	
   	   b.	Period 2 - 1920 to 1959
+  	
+  	   c.	Period 3 - 1960 to 1989
 
-  		 c.	Period 3 - 1960 to 1989
-
-  		 d.	Period 4 - 1990 to 2010
-  
+  	   d.	Period 4 - 1990 to 2010
+  	
+  	  
 3.	Develop a predictive model using linear regression for data in period 4 that can predict the number of games a team is expected to win.
 
