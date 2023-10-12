@@ -1,7 +1,7 @@
 # Baseball Statistics
 ## Project Objectives
 The project has the following two objectives.
-1.	Determine if baseball teams are more successful with high offenses, tight defenses or a balance of the two over multiple time periods based on correlation analysis. Determine the main style of play (offensive, defensive or balanced) in each time period
+1.	Determine if baseball teams are more successful with high offenses, tight defenses or a balance of the two over multiple time periods based on correlation analysis. Determine the main style of play (offensive, defensive or balanced) in each time period<\n>
   a.	Period 1 – before 1920
   b.	Period 2 - 1920 to 1959
   c.	Period 3 - 1960 to 1989
